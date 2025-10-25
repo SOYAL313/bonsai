@@ -231,4 +231,5 @@ h1::after {
     0%{transform: translateY(0px); background-color: #00b289;}
     50%{transform: translateY(50%); background-color: blue;}
     100%{transform: translateY(0px); background-color: red;}
+
 }
